@@ -9,7 +9,7 @@
 | PERSISTS              | App memory | App relaunch | Reset Advertising Identifier | App reinstall | System reboot | System upgrade | System reset |
 |-----------------------|:----------:|:------------:|:----------------------------:|:-------------:|:-------------:|:--------------:|:------------:|
 | `uuid`                |      -     |       -      |               -              |       -       |       -       |        -       |       -      |
-| `uuidForKey:key`      |    **√**   |       -      |               -              |       -       |       -       |        -       |       -      |
+| `uuidForKey`      |    **√**   |       -      |               -              |       -       |       -       |        -       |       -      |
 | `uuidForSession`      |    **√**   |       -      |               -              |       -       |       -       |        -       |       -      |
 | `uuidForInstallation` |    **√**   |     **√**    |             **√**            |       -       |     **√**     |        -       |       -      |
 | `uuidForVendor`       |    **√**   |     **√**    |               -              |     **√***    |     **√**     |        -       |       -      |

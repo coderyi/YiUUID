@@ -1,7 +1,7 @@
 
 This library provides the simplest API to obtain universally unique identifiers with different levels of persistence.
 
-CocoaPods
+### CocoaPods
 
 ```
 pod 'YiUUID'

@@ -1,6 +1,11 @@
 
 提供最简单的API，获取具有不同持久性级别的UUID。
 
+CocoaPods
+
+```
+pod 'YiUUID'
+```
 
 ## Persistence
 - **`√`** *yes*

@@ -1,5 +1,5 @@
 
-提供最简单的API，获取具有不同持久性级别的UUID。
+This library provides the simplest API to obtain universally unique identifiers with different levels of persistence.
 
 CocoaPods
 
